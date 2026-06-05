@@ -7,7 +7,7 @@ from PIL import Image
 import torchvision.transforms as transforms
 
 # ==========================================
-# 0. 核心路径配置区
+
 # ==========================================
 IMAGE_DIR_PATH = r"d:\CS183\新建文件夹 (4)"
 
